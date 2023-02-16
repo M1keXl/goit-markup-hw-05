@@ -151,7 +151,7 @@ margin-right: 40px;
     border-bottom-color: var(--links-active);
 }
 
-.active::after {
+.active {
 border-bottom-color: var(--links-active);
 }
 .adress{
